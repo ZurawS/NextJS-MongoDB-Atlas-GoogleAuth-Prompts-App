@@ -1,5 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+Take a look how does this project look like!
+
+1. Dashboard
+![image](https://github.com/ZurawS/NextJS-MongoDB-Atlas-GoogleAuth-Prompts-App/assets/50383823/eed9dcca-eb3c-477f-80d4-40e9f78574f8)
+
+![image](https://github.com/ZurawS/NextJS-MongoDB-Atlas-GoogleAuth-Prompts-App/assets/50383823/c9dc0224-adcf-4448-8ebb-b2d2f81165a4)
+
+2. Profile view
+![image](https://github.com/ZurawS/NextJS-MongoDB-Atlas-GoogleAuth-Prompts-App/assets/50383823/6a5000cb-05c2-4ab7-b33f-80bcc1baad28)
+
+Feel free o further explore this app's functionalities with its online deployment on Vercel!
+
+>>>>>  https://nextjs-prompts-app-nu.vercel.app
+
 ## Getting Started
 
 First, run the development server:
